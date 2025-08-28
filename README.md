@@ -2,7 +2,8 @@
 - 👀 I’m interested in software engineering and development as well as game development and AI
 - 🌱 I’m currently learning software engineering at ALX School
 - 💞️ I’m looking to collaborate on c projects, and python programming
-- 📫 How to reach me: You can reach me via email. uromjehoshaphat@gmail.com
+- I'm looking for job or internship opportunities in backend development
+- 📫 How to reach me: You can reach me via email. jehoshaphaturom@gmail.com
 
 <!---
 JehoOgbo/JehoOgbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
